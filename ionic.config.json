@@ -1,0 +1,7 @@
+{
+  "name": "GFUECE",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
